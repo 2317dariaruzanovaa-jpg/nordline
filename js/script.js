@@ -1,4 +1,4 @@
-// Собственный JavaScript для лабораторной работы №3
+// Свой JavaScript для лабораторной работы №3
 
 document.addEventListener('DOMContentLoaded', () => {
   initOrderForm();
